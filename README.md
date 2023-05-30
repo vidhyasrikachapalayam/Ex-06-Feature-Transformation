@@ -95,3 +95,25 @@ OUTPUT
 
 ![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/4d9627b2-ded8-4847-9ee0-bd9e8547e265)
 
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/35775249-c6c5-48a7-862d-78f547c14947)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/4df79385-80a5-4cdc-ae70-9ac213b00c7b)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/0e453b9b-5081-4a89-96f9-ae49d0ab01b9)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/6355e80b-8c46-48bc-85f7-c3b494d256fb)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/21d1e727-f86d-4d55-9741-5ce68585d21c)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/078b61a2-8be7-4b39-a872-dbec2af768a9)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/61621502-c51c-4de5-9025-9f41c3281785)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/376b1e7c-976b-41b7-8cf4-66c85a4e201a)
+
+![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/2f2f0aa4-3c6a-4a1f-95a8-e359753e9ecf)
+
+RESULT
+
+Thus feature transformation is done for the given dataset.
+
