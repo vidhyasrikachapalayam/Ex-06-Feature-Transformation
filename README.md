@@ -1,22 +1,25 @@
 # Ex-06-Feature-Transformation
-Ex-06-Feature-Transformation
-AIM
-To read the given data and perform Feature Transformation process and save the data to a file.
 
-ALGORITHM
-STEP 1
+# AIM
+
+## STEP 1
+
 Read the given Data
 
-STEP 2
+## STEP 2
+
 Clean the Data Set using Data Cleaning Process
 
-STEP 3
+## STEP 3
+
 Apply Feature Transformation techniques to all the feature of the data set
 
-STEP 4
+## STEP 4
+
 Save the data to the file
 
-CODE
+# CODE
+
 import pandas as pd
 
 df=pd.read_csv('/content/Data_to_Transform.csv')
@@ -87,7 +90,7 @@ sm.qqplot(df['Moderate Negative Skew'],fit=True,line='45')
 
 plt.show()
 
-OUTPUT
+# OUTPUT
 
 ![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/cd22a663-5778-47fe-b016-38170df1b236)
 
@@ -113,7 +116,7 @@ OUTPUT
 
 ![image](https://github.com/vidhyasrikachapalayam/Ex-06-Feature-Transformation/assets/119477817/2f2f0aa4-3c6a-4a1f-95a8-e359753e9ecf)
 
-RESULT
+# RESULT
 
 Thus feature transformation is done for the given dataset.
 
